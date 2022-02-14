@@ -9,13 +9,11 @@ Finally, the analysis pulled in closing price and daily return information on th
 
 To turn the analysis into a web-based application, Voila was run in the termnial, resulting in the webpage shown below:
 
-![Video_voila](/images/ScreenRecording_1.mov)
+![Video_voila](./images/ScreenRecording_1.mov)
 
-Please see images folder as I cannot get these screenshots to pull in correctly
+Please see images folder as I cannot get the recording to pull in correctly
 
-![Screenshot_voila](/images/ScreenShot_1.png) 
-
-Please see images folder as I cannot get these screenshots to pull in correctly
+![Screenshot_voila](./images/ScreenShot_1.png) 
 
 ## Technologies
 
