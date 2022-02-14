@@ -11,7 +11,11 @@ To turn the analysis into a web-based application, Voila was run in the termnial
 
 ![Video_voila](/images/ScreenRecording_1.mov)
 
-![Screenshot_voila](/images/ScreenShot_1.png)
+Please see images folder as I cannot get these screenshots to pull in correctly
+
+![Screenshot_voila](/images/ScreenShot_1.png) 
+
+Please see images folder as I cannot get these screenshots to pull in correctly
 
 ## Technologies
 
